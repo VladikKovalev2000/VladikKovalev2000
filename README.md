@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, i'm Vlad👋
+[monkey](https://i.pinimg.com/originals/6a/6e/8a/6a6e8ade2091816d19972ad915552ff3.jpg?nii=t)
 
 <!--
 **VladikKovalev2000/VladikKovalev2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
